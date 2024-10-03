@@ -109,8 +109,42 @@
 //11-masala
 
 // 13 - masala
+// let a = 1;
+// let b = 2;
+// let c = 3;
 
-//  13, 14, 15 ni ertaga ishlab push qilib qoyaman, ishlay olmadim
+// let mid;
+
+// if ((a > b && a < c) || (a < b && a > c)) {
+//   mid = a;
+// } else if ((b > a && b < c) || (b < a && b > c)) {
+//   mid = b;
+// } else {
+//   mid = c;
+// }
+
+// console.log(mid);
+
+// 14-masala
+
+// let a = 1;
+// let b = 2;
+// let c = 3;
+
+// let min;
+
+// if (a < b && a < c) {
+//   min = a;
+// } else if (b < a && b < c) {
+//   min = b;
+// } else {
+//   min = c;
+// }
+
+// console.log(min);
+
+// 15 - masala
+// ?
 
 // Boolean
 
@@ -127,7 +161,6 @@
 // console.log(res);
 
 //2-masala
-
 // let a = 12;
 // let res;
 
@@ -140,7 +173,6 @@
 // console.log(res);
 
 //3-masala
-
 // let a = 12;
 // let res;
 
@@ -153,7 +185,6 @@
 // console.log(res);
 
 // 4-masala
-
 // let a = 12;
 // let b = 12;
 // let res;
@@ -167,9 +198,9 @@
 // console.log(res);
 
 // 5-masala
+// ?
 
 // 6-masala
-
 // let a = 12;
 // let b = 12;
 // let c = 12;
@@ -184,7 +215,6 @@
 // console.log(res);
 
 // 7-masala
-
 // let a = 12;
 // let b = 12;
 // let c = 12;
@@ -199,9 +229,9 @@
 // console.log(res);
 
 // 8-masala
+// ?
 
 // 9-masala
-
 // let a = 12;
 // let b = 12;
 // let res;
@@ -215,7 +245,6 @@
 // console.log(res);
 
 //10-masala
-
 // let a = 12;
 // let b = 12;
 // let res;
